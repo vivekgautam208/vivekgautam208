@@ -1,0 +1,42 @@
+GITHUB PROFILE README — FIXED CONTRIBUTION PANEL
+====================================================
+
+Profile: https://github.com/vivekgautam208
+Repository: https://github.com/vivekgautam208/vivekgautam208
+
+CHANGE IN THIS VERSION
+----------------------
+The GitHub readme activity graph hosted at github-readme-activity-graph.vercel.app
+was paused by its operator (HTTP 402 observed in published issue reports in Aug 2026).
+The failing external image has been replaced by an attractive LOCAL SVG link
+pointing to the live contribution calendar on your actual GitHub profile.
+The new panel is intentionally decorative: it does NOT show fabricated stats.
+The animated hero GIF and all other profile content are preserved.
+
+HOW TO INSTALL IF YOU ALREADY USED THE PREVIOUS ZIP
+---------------------------------------------------
+1. Open https://github.com/vivekgautam208/vivekgautam208
+2. Upload ONLY assets/contribution-link.svg into the repository's assets/ folder.
+3. Replace the root README.md with the updated README.md from this ZIP.
+4. Commit changes. Reload https://github.com/vivekgautam208
+
+You don't need to reupload hero.gif if it's already working on GitHub.
+
+HOW TO INSTALL IF THIS IS YOUR FIRST TIME
+------------------------------------------
+1. Open your profile repository.
+2. Upload assets/hero.gif and assets/contribution-link.svg into assets/.
+3. Replace the root README.md with the updated README.md.
+4. Commit your changes to the default branch.
+5. Go to your GitHub profile to see the result.
+
+PREVIEW
+-------
+assets/hero-preview.png: Static preview of original animated GIF.
+assets/contribution-link-preview.png: Static preview of fixed contribution link.
+
+NOTE
+----
+The GitHub statistics and typing card images still use third-party services.
+The replacement panel is stored in YOUR repository and cannot fail because
+an external graph service is paused. Clicking it opens GitHub's real calendar.

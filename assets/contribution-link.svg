@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="258" viewBox="0 0 1120 258" role="img" aria-label="View live GitHub contribution activity on GitHub">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1A33"/>
+      <stop offset="0.58" stop-color="#101831"/>
+      <stop offset="1" stop-color="#181537"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#48D9FF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6B64E7" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6B64E7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="cross" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M0 26V0H26" fill="none" stroke="#98B4EB" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1120" height="258" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1120" height="258" fill="url(#panel)"/>
+    <rect width="1120" height="258" fill="url(#cross)"/>
+    <circle cx="925" cy="130" r="250" fill="url(#glow)"/>
+    <path d="M0 0H1120V258H0Z" fill="none" stroke="#5264B8" stroke-opacity="0.6" stroke-width="2"/>
+    <rect x="0" y="0" width="6" height="258" fill="url(#accent)"/>
+    <rect x="56" y="29" width="134" height="24" rx="12" fill="#42CEFD" fill-opacity=".13" stroke="#58E0FF" stroke-opacity=".30"/>
+    <circle cx="72" cy="41" r="4" fill="#51D9FF"/>
+    <text x="84" y="46" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.45" fill="#8EE8FF">GITHUB ACTIVITY</text>
+    <text x="55" y="106" font-family="DejaVu Sans, Arial, sans-serif" font-size="35" font-weight="700" fill="#F3F7FF">Code. Learn. Contribute.</text>
+    <text x="56" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#C6D3EF">Explore my real, up-to-date contribution history.</text>
+    <rect x="56" y="166" width="353" height="53" rx="12" fill="#50CEFA"/>
+    <text x="81" y="199" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing=".35" fill="#101A30">VIEW LIVE CONTRIBUTIONS</text>
+    <path d="M368 185H380M374 180L380 185L374 190" stroke="#101A30" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Abstract circuitry on the right is purely decorative, not activity data. -->
+    <path d="M650 181C696 181 692 105 746 105S806 171 861 171S935 92 1000 92" fill="none" stroke="#6ADFFF" stroke-opacity=".45" stroke-width="2.4"/>
+    <path d="M634 204C715 204 743 144 799 144S876 214 951 214S1021 162 1085 162" fill="none" stroke="#9E87FD" stroke-opacity=".28" stroke-width="2"/>
+    <g fill="#0E1B38" stroke="#55D9FF" stroke-width="2">
+      <circle cx="746" cy="105" r="8"/><circle cx="861" cy="171" r="8"/><circle cx="1000" cy="92" r="8"/>
+    </g>
+    <g fill="#8B77FF"><circle cx="746" cy="105" r="3"/><circle cx="861" cy="171" r="3"/><circle cx="1000" cy="92" r="3"/></g>
+    <g fill="#64D9FF" fill-opacity=".15" stroke="#64D9FF" stroke-opacity=".26">
+      <rect x="694" y="34" width="32" height="32" rx="6"/>
+      <rect x="734" y="34" width="32" height="32" rx="6"/>
+      <rect x="774" y="34" width="32" height="32" rx="6"/>
+      <rect x="814" y="34" width="32" height="32" rx="6"/>
+      <rect x="854" y="34" width="32" height="32" rx="6"/>
+      <rect x="894" y="34" width="32" height="32" rx="6"/>
+    </g>
+    <g fill="#B695FF" fill-opacity=".18" stroke="#B695FF" stroke-opacity=".28">
+      <rect x="932" y="34" width="32" height="32" rx="6"/>
+      <rect x="972" y="34" width="32" height="32" rx="6"/>
+      <rect x="1012" y="34" width="32" height="32" rx="6"/>
+    </g>
+    <text x="717" y="239" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="500" fill="#8FA6C9">Live activity is displayed on GitHub</text>
+  </g>
+</svg>
