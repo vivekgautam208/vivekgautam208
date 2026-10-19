@@ -20,22 +20,16 @@
   <a href="https://www.instagram.com/vivekgautam208/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
----
+✦ About Me
+I'm Vivek Gautam, a Computer Science and Engineering (B.Tech) developer from IIIT Bhagalpur, interested in creating useful software and understanding how intelligent systems perform in the real world.
+- 🧠 AI & LLMs: Model evaluation, benchmark-oriented testing, response quality, and reliability.
+- 📊 Data & ML: Data analysis, visualization, and machine learning with Python.
+- 💻 Development: Responsive interfaces, practical web applications, and problem solving.
+- 🔍 What drives me: Careful experiments, measurable improvements, and learning by building.
+- 🤝 Open to: AI/ML, data science, model evaluation, and software development opportunities.
+I enjoy building systems — and asking the right questions to understand how well they work.
 
-## ✦ About Me
-
-I'm **Vivek Gautam**, a Computer Science and Engineering (B.Tech) developer from **IIIT Bhagalpur**, interested in creating useful software and understanding how intelligent systems perform in the real world.
-
-- 🧠 **AI & LLMs:** Model evaluation, benchmark-oriented testing, response quality, and reliability.
-- 📊 **Data & ML:** Data analysis, visualization, and machine learning with Python.
-- 💻 **Development:** Responsive interfaces, practical web applications, and problem solving.
-- 🔍 **What drives me:** Careful experiments, measurable improvements, and learning by building.
-- 🤝 **Open to:** AI/ML, data science, model evaluation, and software development opportunities.
-
-> **I enjoy building systems — and asking the right questions to understand how well they work.**
-
-## ⚡ Areas of Interest
-
+⚡ Areas of Interest
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
@@ -53,38 +47,30 @@ I'm **Vivek Gautam**, a Computer Science and Engineering (B.Tech) developer from
   </tr>
 </table>
 
-## 🛠️ Technology Toolkit
-
-**Programming & machine learning**
-
+🛠️ Technology Toolkit
+Programming & machine learning
 <p>
   <img src="https://skillicons.dev/icons?i=py,pytorch,c,cpp&theme=dark" alt="Python, PyTorch, C and C++" />
 </p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Web & application development**
 
+
+
+Web & application development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,vite&perline=7&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Express, Vite" />
 </p>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logoColor=black)
 
-**Databases & developer tools**
 
+Databases & developer tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vercel&theme=dark" alt="MySQL, Git, GitHub, and Vercel" />
 </p>
 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 📂 Explore My Work
-
+📂 Explore My Work
 <p align="center">
   <a href="https://github.com/vivekgautam208?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_Public_Repositories-22D3EE?style=for-the-badge&logo=github&logoColor=071321" alt="Explore all public repositories" />
@@ -92,17 +78,14 @@ I'm **Vivek Gautam**, a Computer Science and Engineering (B.Tech) developer from
 </p>
 
 A few public projects and practice repositories:
+Project	Focus
+Myntra Clone	Front-end development practice
+LeetCode Daily	Coding and algorithm practice
+Drum Play	Interactive HTML, CSS, and JavaScript
 
-| Project | Focus |
-| :-- | :-- |
-| [Myntra Clone](https://github.com/vivekgautam208/Myntra-Clone) | Front-end development practice |
-| [LeetCode Daily](https://github.com/vivekgautam208/LeetCode_Daily) | Coding and algorithm practice |
-| [Drum Play](https://github.com/vivekgautam208/Drum-Play) | Interactive HTML, CSS, and JavaScript |
 
-## 📊 GitHub Activity
-
+📊 GitHub Activity
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=vivekgautam208&show_icons=true&hide_border=true&bg_color=0D142A&title_color=51D9FF&text_color=CDD8F4&icon_color=A78BFA&rank_icon=github" alt="GitHub public activity statistics" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekgautam208&layout=compact&hide_border=true&bg_color=0D142A&title_color=51D9FF&text_color=CDD8F4&langs_count=6" alt="Most used languages across public repositories (not a proficiency ranking)" />
 </p>
 
@@ -121,14 +104,11 @@ A few public projects and practice repositories:
 <details>
 <summary>About GitHub statistics</summary>
 
-The stats and streak cards above come from third-party providers, so they may occasionally be unavailable or delayed. The contribution panel is hosted in this repository and links directly to GitHub's own live calendar. Top-language statistics reflect repository code, **not** skill proficiency.
-
+The stats and streak cards above come from third-party providers, so they may occasionally be unavailable or delayed. The contribution panel is hosted in this repository and links directly to GitHub's own live calendar. Top-language statistics reflect repository code, not skill proficiency.
 </details>
 
-## 🤝 Let's Connect
-
-I'm interested in collaborating on thoughtful **AI/ML**, **LLM evaluation**, **data science**, and **software engineering** work. If there's an opportunity where I can contribute, I'd love to hear about it.
-
+🤝 Let's Connect
+I'm interested in collaborating on thoughtful AI/ML, LLM evaluation, data science, and software engineering work. If there's an opportunity where I can contribute, I'd love to hear about it.
 <p align="center">
   <a href="mailto:vivekgautam2021.g@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email_Me-29C7E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vivek" /></a>
   <a href="https://linkedin.com/in/vivekgautam208"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-7C6BE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
