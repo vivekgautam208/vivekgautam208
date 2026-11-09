@@ -1,117 +1,131 @@
-<!-- Premium GitHub profile README for @vivekgautam208 -->
+<!-- Comic-hero GitHub profile README for @vivekgautam208 -->
 <!-- Put README.md in the ROOT of github.com/vivekgautam208/vivekgautam208 -->
-<!-- Keep assets/hero.gif in the same repository for the animated cover to work. -->
+<!-- Upload the whole assets/ folder to the same repository; every banner is an animated SVG. -->
 
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Animated Vivek Gautam GitHub profile banner — AI/ML, model evaluation, and web development" />
+  <img src="./assets/hero.svg" width="100%" alt="Vivek Gautam — AI/ML, LLM evaluation and web development, shown as an animated comic-book cover" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vivekgautam208">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=850&color=52D8FF&center=true&vCenter=true&width=820&height=55&lines=AI%2FML+%26+Data+Science+Enthusiast;LLM+Evaluation+%26+Benchmarking;Python+%7C+React+%7C+Problem+Solving;Building+and+Learning%2C+One+Project+at+a+Time" alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=34&duration=2800&pause=900&color=FFC83D&center=true&vCenter=true&width=860&height=60&lines=AI%2FML+%26+Data+Science+Enthusiast;LLM+Evaluation+%26+Benchmarking;Python+%7C+React+%7C+Problem+Solving;Building+and+Learning%2C+One+Project+at+a+Time" alt="AI/ML and Data Science Enthusiast · LLM Evaluation and Benchmarking · Python, React, Problem Solving · Building and Learning, One Project at a Time" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekgautam208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vivekgautam2021.g@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vivekgautam208"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://facebook.com/vivekgautam208"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/vivekgautam208/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/vivekgautam208/"><img src="https://img.shields.io/badge/LinkedIn-D7263D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vivekgautam2021.g@gmail.com"><img src="https://img.shields.io/badge/Email-FFC83D?style=for-the-badge&logo=gmail&logoColor=0B0B0F" alt="Email" /></a>
+  <a href="https://github.com/vivekgautam208"><img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=FFC83D" alt="GitHub" /></a>
+  <a href="https://facebook.com/vivekgautam208"><img src="https://img.shields.io/badge/Facebook-7A0E1A?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/vivekgautam208/"><img src="https://img.shields.io/badge/Instagram-F07A2A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-✦ About Me
-I'm Vivek Gautam, a Computer Science and Engineering (B.Tech) developer from IIIT Bhagalpur, interested in creating useful software and understanding how intelligent systems perform in the real world.
-- 🧠 AI & LLMs: Model evaluation, benchmark-oriented testing, response quality, and reliability.
-- 📊 Data & ML: Data analysis, visualization, and machine learning with Python.
-- 💻 Development: Responsive interfaces, practical web applications, and problem solving.
-- 🔍 What drives me: Careful experiments, measurable improvements, and learning by building.
-- 🤝 Open to: AI/ML, data science, model evaluation, and software development opportunities.
-I enjoy building systems — and asking the right questions to understand how well they work.
+<br />
 
-⚡ Areas of Interest
-<table>
+<p align="center">
+  <img src="./assets/header-origin.svg" width="100%" alt="Chapter 1: Origin Story — About Me" />
+</p>
+
+Every hero has an origin story. Mine starts with a B.Tech in **Computer Science and Engineering at IIIT Bhagalpur**, where I got hooked on two things: building useful software, and understanding how intelligent systems actually behave in the real world.
+
+- 🧠 **AI & LLMs:** Model evaluation, benchmark-oriented testing, response quality, and reliability.
+- 📊 **Data & ML:** Data analysis, visualization, and machine learning with Python.
+- 💻 **Development:** Responsive interfaces, practical web applications, and problem solving.
+- 🔍 **What drives me:** Careful experiments, measurable improvements, and learning by building.
+- 🤝 **Open to:** AI/ML, data science, model evaluation, and software development opportunities.
+
+> I enjoy building systems — and asking the right questions to understand how well they work.
+
+<br />
+
+<p align="center">
+  <img src="./assets/header-powers.svg" width="100%" alt="Chapter 2: Superpowers — Areas of Interest" />
+</p>
+
+<p align="center">
+  <img src="./assets/powers.svg" width="100%" alt="Power 01: AI / LLM Evaluation — benchmarking, model quality, reasoning analysis, reliability. Power 02: Data and Machine Learning — Python, data workflows, visualization, experiments. Power 03: Web Engineering — React, JavaScript, responsive design, user experience." />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/header-arsenal.svg" width="100%" alt="Chapter 3: The Arsenal — Tech Toolkit" />
+</p>
+
+<table align="center">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🧠 AI / LLM Evaluation</h3>
-      Benchmarking • Model quality • Reasoning analysis • Reliability
-    </td>
-    <td width="34%" align="center" valign="top">
-      <h3>📈 Data & Machine Learning</h3>
-      Python • Data workflows • Visualization • Experiments
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🌐 Web Engineering</h3>
-      React • JavaScript • Responsive design • User experience
-    </td>
+    <td align="center" width="33%"><b>⚔️ Programming & ML</b></td>
+    <td align="center" width="34%"><b>🛡️ Web & App Development</b></td>
+    <td align="center" width="33%"><b>🧰 Databases & Dev Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,pytorch,c,cpp&perline=4&theme=dark" alt="Python, PyTorch, C and C++" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,vite&perline=4&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Express, Vite" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,git,github,vercel&perline=4&theme=dark" alt="MySQL, Git, GitHub and Vercel" /></td>
   </tr>
 </table>
 
-🛠️ Technology Toolkit
-Programming & machine learning
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,c,cpp&theme=dark" alt="Python, PyTorch, C and C++" />
+<br />
+
+<p align="center">
+  <img src="./assets/header-missions.svg" width="100%" alt="Chapter 4: Mission Log — My Work" />
 </p>
 
+A few public projects and practice repositories from the field:
 
+| File | Mission | Focus |
+| :---: | :--- | :--- |
+| `#01` | [**Myntra Clone**](https://github.com/vivekgautam208/Myntra-Clone) | Front-end development practice |
+| `#02` | [**LeetCode Daily**](https://github.com/vivekgautam208/LeetCode_Daily) | Coding and algorithm practice |
+| `#03` | [**Drum Play**](https://github.com/vivekgautam208/Drum-Play) | Interactive HTML, CSS, and JavaScript |
 
-
-
-Web & application development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,vite&perline=7&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Express, Vite" />
-</p>
-
-
-
-Databases & developer tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vercel&theme=dark" alt="MySQL, Git, GitHub, and Vercel" />
-</p>
-
-
-📂 Explore My Work
 <p align="center">
   <a href="https://github.com/vivekgautam208?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Public_Repositories-22D3EE?style=for-the-badge&logo=github&logoColor=071321" alt="Explore all public repositories" />
+    <img src="https://img.shields.io/badge/Open_the_Full_Mission_Archive-D7263D?style=for-the-badge&logo=github&logoColor=FFC83D" alt="Explore all public repositories" />
   </a>
 </p>
 
-A few public projects and practice repositories:
-Project	Focus
-Myntra Clone	Front-end development practice
-LeetCode Daily	Coding and algorithm practice
-Drum Play	Interactive HTML, CSS, and JavaScript
+<br />
 
-
-📊 GitHub Activity
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekgautam208&layout=compact&hide_border=true&bg_color=0D142A&title_color=51D9FF&text_color=CDD8F4&langs_count=6" alt="Most used languages across public repositories (not a proficiency ranking)" />
+  <img src="./assets/header-stats.svg" width="100%" alt="Chapter 5: Power Levels — GitHub Activity" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekgautam208&theme=tokyonight&hide_border=true&background=0D142A&ring=51D9FF&fire=AD85FF&currStreakLabel=51D9FF" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekgautam208&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=FFC83D&text_color=FFF4DC&langs_count=6" alt="Most used languages across public repositories (not a proficiency ranking)" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vivekgautam208&hide_border=true&background=0B0B0F&ring=D7263D&fire=FFC83D&currStreakLabel=FFC83D&currStreakNum=FFF4DC&sideNums=FFF4DC&sideLabels=FFF4DC&dates=B9A88A&stroke=7A0E1A" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vivekgautam208?tab=overview" title="See my real contribution calendar on GitHub">
-    <img width="100%" src="./assets/contribution-link.svg" alt="Open Vivek Gautam's live contribution calendar directly on GitHub" />
+    <img width="100%" src="./assets/contribution-link.svg" alt="Open Vivek Gautam's live contribution calendar on GitHub" />
   </a>
 </p>
 
-<p align="center"><sub>The real, continuously updated contribution calendar is shown on my GitHub profile. Click the panel to see it.</sub></p>
+<p align="center"><sub>The grid above is decorative. My real, continuously updated contribution calendar lives on my GitHub profile — click the panel to see it.</sub></p>
 
 <details>
-<summary>About GitHub statistics</summary>
+<summary>About these statistics</summary>
 
-The stats and streak cards above come from third-party providers, so they may occasionally be unavailable or delayed. The contribution panel is hosted in this repository and links directly to GitHub's own live calendar. Top-language statistics reflect repository code, not skill proficiency.
+The language and streak cards come from third-party providers, so they may occasionally be unavailable or delayed. Top-language statistics reflect repository code, not skill proficiency.
 </details>
 
-🤝 Let's Connect
-I'm interested in collaborating on thoughtful AI/ML, LLM evaluation, data science, and software engineering work. If there's an opportunity where I can contribute, I'd love to hear about it.
+<br />
+
 <p align="center">
-  <a href="mailto:vivekgautam2021.g@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email_Me-29C7E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vivek" /></a>
-  <a href="https://linkedin.com/in/vivekgautam208"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-7C6BE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="./assets/header-signal.svg" width="100%" alt="Chapter 6: Send the Signal — Let's Connect" />
 </p>
 
-<p align="center"><sub>Made with curiosity, code, and a commitment to keep learning. ✨</sub></p>
+I'm interested in collaborating on thoughtful AI/ML, LLM evaluation, data science, and software engineering work. If there's a mission where I can contribute, send the signal — I'd love to hear about it.
+
+<p align="center">
+  <a href="mailto:vivekgautam2021.g@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email_Me-FFC83D?style=for-the-badge&logo=gmail&logoColor=0B0B0F" alt="Email Vivek" /></a>
+  <a href="https://www.linkedin.com/in/vivekgautam208/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-D7263D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="To be continued — next issue: more models, more benchmarks, more builds" />
+</p>
